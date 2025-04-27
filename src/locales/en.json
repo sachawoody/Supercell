@@ -1,0 +1,28 @@
+{
+    "player_command": {
+      "description": "Search for a Clash of Clans player",
+      "tag_option": "Enter the player's tag (e.g., #AAAAAAA)",
+      "response": "👤 Player: **{name}**\n🏆 Current Trophies: **{trophies}**\n🥇 Best Trophies: **{bestTrophies}**\n🏰 Town Hall Level: **{townHallLevel}**\n🎖️ War Stars: **{warStars}**\n⚔️ Attack Wins: **{attackWins}**\n🛡️ Defense Wins: **{defenseWins}**\n🏛️ Clan: **{clanName}**\n🏅 Experience Level: **{level}**",
+      "error": "❌ Unable to fetch player information.",
+      "embed_title": "👤 Player: {name}",
+      "trophies": "🏆 Trophies",
+      "town_hall": "🏰 Town Hall",
+      "attack_wins": "⚔️ Attack Wins",
+      "defense_wins": "🛡️ Defense Wins",
+      "war_stars": "⭐ War Stars",
+      "clan_role": "🎖️ Clan Role",
+      "league": "🏅 League",
+      "builder_hall": "🏗️ Builder Hall",
+      "clan": "🏠 Clan",
+      "no_clan": "No Clan",
+      "donations": "🎁 Donations",
+      "clan_capital_contributions": "🏰 Clan Capital Contributions",
+      "footer": "Clash of Clans Bot",
+      "error_title": "❌ Unable to fetch player information",
+      "error_description": "There was an issue fetching the player data. Please try again later.",
+      "card_player": "Player: {name}",
+      "card_trophies": "Trophies: {trophies}",
+      "card_town_hall": "Town Hall: {level}",
+      "card_clan": "Clan: {clan}"
+    }
+  }

@@ -1,0 +1,28 @@
+{
+    "player_command": {
+        "description": "Cherche un joueur Clash of Clans",
+        "tag_option": "Le tag du joueur (ex: #AAAAAAA)",
+        "response": "👤 Joueur: **{name}**\n🏆 Trophées actuels: **{trophies}**\n🥇 Record Trophées: **{bestTrophies}**\n🏰 Niveau Hôtel de Ville: **{townHallLevel}**\n🎖️ Étoiles de guerre: **{warStars}**\n⚔️ Victoires en attaque: **{attackWins}**\n🛡️ Victoires en défense: **{defenseWins}**\n🏛️ Clan: **{clanName}**\n🏅 Niveau d'expérience: **{level}**",
+        "error": "❌ Impossible de récupérer les infos du joueur.",
+        "embed_title": "👤 Joueur : {name}",
+        "trophies": "🏆 Trophées",
+        "town_hall": "🏰 Hôtel de Ville",
+        "attack_wins": "⚔️ Victoires en Attaque",
+        "defense_wins": "🛡️ Victoires en Défense",
+        "war_stars": "⭐ Étoiles de Guerre",
+        "clan_role": "🎖️ Rôle dans le Clan",
+        "league": "🏅 Ligue",
+        "builder_hall": "🏗️ O.T.O",
+        "clan": "🏠 Clan",
+        "no_clan": "Aucun Clan",
+        "donations": "🎁 Dons",
+        "clan_capital_contributions": "🏰 Contributions à la Capitale de Clan",
+        "footer": "Bot Clash of Clans",
+        "error_title": "❌ Impossible de récupérer les informations du joueur",
+        "error_description": "Un problème est survenu lors de la récupération des données. Veuillez réessayer plus tard.",
+        "card_player": "Joueur : {name}",
+        "card_trophies": "Trophées : {trophies}",
+        "card_town_hall": "Hôtel de Ville : {level}",
+        "card_clan": "Clan : {clan}"
+    }
+}
